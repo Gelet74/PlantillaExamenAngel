@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PlantillaExamenAngel</string>
+    <string name="inicio">Inicio</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="atr_s">Atrás</string>
+    <string name="insertar">Insertar</string>
+</resources>
