@@ -10,7 +10,6 @@ import retrofit2.http.PUT
 import retrofit2.http.Path
 
 interface PlantillaServicioApi {
-
     //modelo1
 
     @GET("modelo1")
